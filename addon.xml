@@ -2,7 +2,7 @@
 <addon id="script.module.websocket" name="websocket library" version="0.58.0" provider-name="liris">
   <requires>
     <import addon="xbmc.python" version="3.0.0" />
-    <import addon="script.module.six" version="1.14.0" />
+    <import addon="script.module.six" version="1.15.0" />
   </requires>
   <extension point="xbmc.python.module" library="lib" />
   <extension point="xbmc.addon.metadata">
